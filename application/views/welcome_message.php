@@ -72,7 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <<<<<<< HEAD
 	<div align="center"><h1 style="font-weight: bold;">New Update</h1></div>
 =======
-	<div align="center"><h1 style="font-weight: bold;">JANAKA PRASAD DUNSUINGHA & Asantha abc & cdef 123</h1></div>
+	<div align="center"><h1 style="font-weight: bold;">abc</h1></div>
 >>>>>>> branch 'master' of https://github.com/prasadjanaka/cod.git
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
