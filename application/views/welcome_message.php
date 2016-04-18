@@ -69,7 +69,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div id="container">
 	<h1 style="background-color:yellow;">Welcome to CodeIgniter!</h1>
-	<div align="center"><h1 style="font-weight: bold;">JANAKA PRASAD DUNSUINGHA & Asantha</h1></div>
+	<div align="center"><h1 style="font-weight: bold;">JANAKA PRASAD DUNSUINGHA & Asantha dadad</h1></div>
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
