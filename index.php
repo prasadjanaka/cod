@@ -6,7 +6,7 @@
  * CodeIgniter
 
  * CodeIgniter Thusitha Bodaragama, Global Star Logistics
->>>>>>> branch 'master' of https://github.com/prasadjanaka/cod.git
+
  *
  * An open source application development framework for PHP
  *
