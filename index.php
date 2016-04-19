@@ -11,8 +11,6 @@
 
  * CodeIgniter Thusitha Bodaragama, Global Star Logistics
 
-
- *
  * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
