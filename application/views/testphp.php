@@ -8,7 +8,10 @@ echo "lol 21";
 
 
 echo "dennama eke update kirima";
-echo "abcef"
+
+echo "abcef";
+
+echo "abc";
 
 ?>
 
