@@ -6,7 +6,7 @@
 =======
 
  * Janaka Prasad dunusingha 
- * GSL LANKA
+ * GSL LANKA 
  * CodeIgniter
 
  * CodeIgniter Thusitha Bodaragama, Global Star Logistics
