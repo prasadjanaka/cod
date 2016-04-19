@@ -9,9 +9,12 @@ echo "lol 21";
 
 echo "dennama eke update kirima";
 
+<<<<<<< master
 echo "abcef";
 
 echo "abc";
+=======
+>>>>>>> ce9b7cc 1
 
 ?>
 
