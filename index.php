@@ -2,7 +2,7 @@
 
 /**
 
- * CodeIgniter Thusitha Bodaragama, Global Star Logistics <<<<<>>>>
+ * CodeIgniter Thusitha Bodaragama, Global Star Logistics
 
  * Janaka Prasad dunusingha 
  * Asantha Darshana Jayarathna
