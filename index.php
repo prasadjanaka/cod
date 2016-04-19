@@ -12,6 +12,10 @@
 
  * CodeIgniter Thusitha Bodaragama, Global Star Logistics
 
+<<<<<<< HEAD
+=======
+ *
+>>>>>>> branch 'master' of https://github.com/prasadjanaka/cod.git
  * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
