@@ -1,6 +1,6 @@
 <?php
 /**
- * CodeIgniter Thusitha Bodaragama, Global Star Logistics <<<<<
+ * CodeIgniter Thusitha Bodaragama, Global Star Logistics <<<<<>>>>
  *
  * An open source application development framework for PHP
  *
