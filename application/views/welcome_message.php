@@ -69,11 +69,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div id="container">
 	<h1 style="background-color:yellow;">Welcome to CodeIgniter!</h1>
-<<<<<<< HEAD
+
 	<div align="center"><h1 style="font-weight: bold;">New Update</h1></div>
-=======
+
 	<div align="center"><h1 style="font-weight: bold;">abc</h1></div>
->>>>>>> branch 'master' of https://github.com/prasadjanaka/cod.git
+
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
